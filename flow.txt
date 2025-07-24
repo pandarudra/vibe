@@ -1,0 +1,4 @@
+prisma
+shadcn ui
+trpc => both client side and server side
+background jobs => long running tasks => Ingest
